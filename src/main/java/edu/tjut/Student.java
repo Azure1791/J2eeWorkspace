@@ -33,6 +33,7 @@ public class Student {
 	}
 	public static void main(String args[]) {
 		String a = new String();
+		System.out.println();
 	}
 }
 //public class 
