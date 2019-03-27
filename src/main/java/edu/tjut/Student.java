@@ -31,6 +31,9 @@ public class Student {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	public static void main(String args[]) {
+		
+	}
 }
 //public class 
 //属性都是私有的
