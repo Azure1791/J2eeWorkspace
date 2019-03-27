@@ -32,7 +32,7 @@ public class Student {
 		this.address = address;
 	}
 	public static void main(String args[]) {
-		
+		String a = new String();
 	}
 }
 //public class 
